@@ -1,0 +1,8 @@
+1. 시작 -> r 타이핑 -> cmd -> 명령프롬프트
+
+2. C:\Users\pc\AppData\Local\Programs\Python\Python38-32\python -m pip install --upgrade
+
+3. C:\Users\pc\AppData\Local\Programs\Python\Python38-32\Scripts\pip install pygame
+
+
+
