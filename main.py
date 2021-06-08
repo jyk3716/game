@@ -105,6 +105,11 @@ while carryOn:
      
     # --- Limit to 60 frames per second
     clock.tick(60)
+    
+    if scoreA == 10 :
+     carryOn = False
+    elif scoreB == 10 :
+     carryOn = False
  
 #Once we have exited the main program loop we can stop the game engine:
 pygame.quit()
